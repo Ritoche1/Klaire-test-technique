@@ -18,7 +18,7 @@ Cette API permet d'enregistrer des adresses et de consulter les risques associé
 
 ```bash
 git clone [URL_DU_DEPOT]
-cd klaire-address-risk-api
+cd .\Klaire-test-technique\  
 ```
 
 2. **Configuration des variables d'environnement**
